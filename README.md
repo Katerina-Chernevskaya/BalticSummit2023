@@ -4,8 +4,8 @@ This workshop will introduce you to the concepts and best practices of Applicati
 
 For an optimal workshop experience, please familiarize yourself with and adhere to the following prerequisites.
 1. Device: Ensure you have a laptop ready.
-2. Tenant for Labs that allow you create environments and App Registration (details are bellow).
-3. Azure DevOps organization with 1 free tier of Parallel Job (details are below).
+2. [Tenant](https://github.com/Katerina-Chernevskaya/BalticSummit2023#tenant) for Labs that allow you create environments and App Registration (details are bellow).
+3. [Azure DevOps organization](https://github.com/Katerina-Chernevskaya/BalticSummit2023#azure-devops-organization---parallel-job-request) with 1 free tier of Parallel Job (details are below).
 
 ## Tenant
 
