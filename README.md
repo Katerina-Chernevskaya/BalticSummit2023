@@ -18,12 +18,14 @@ Once you create a fresh new tenant - start the free [Power Apps Developer plan](
 
 While we'll dive deep into Azure DevOps setup during our workshop, we request that you initiate the Parallel Job feature in advance using this guide. This is crucial as the free tier for parallelism typically requires a 2-day approval. Follow the below steps to set your Azure DevOps organization prepared in advance to make the most of our workshop.
 
-1. Go to https://https://dev.azure.com/
-2. Fill in the form for the project creation
-3. Go to the [Azure DevOps Parallelism Request form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR63mUWPlq7NEsFZhkyH8jChUMlM3QzdDMFZOMkVBWU5BWFM3SDI2QlRBSC4u), answer on 4 questions and submit the form.
+1. Go to https://dev.azure.com/
+2. Complete the project creation form and click `Continue`
+3. Once the project will be created, navigate to the [Azure DevOps Parallelism Request form](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR63mUWPlq7NEsFZhkyH8jChUMlM3QzdDMFZOMkVBWU5BWFM3SDI2QlRBSC4u), answer the four provided questions and then submit the form.
 - in the question `What is your name?` write your name
 - in the question `What is your email address?` write your email address from the tenant for which you make the request
 - in the question `What is the name of your Azure DevOps Organization?` write the link to your Azure DevOps organizatopn (like https://dev.azure.com/KaterinaChernevskaya)
+_To locate this link, click on the organization name associated with your newly created project and copy the URL from the address bar._
+![AzureDevOpsProject](./assets/AzureDevOpsProject.png)
 - in the question `Are you requesting a parallelism increase for Public or Private projects?` select `Private`
 
 
