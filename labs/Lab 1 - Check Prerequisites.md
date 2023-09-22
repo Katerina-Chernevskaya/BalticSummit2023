@@ -69,7 +69,7 @@ You can start for free and create an Azure DevOps Organization [here](https://de
 **Task:** Ensure that the free tier for parallelism is enabled in your Azure DevOps Organization to support concurrent operations, enhancing efficiency.
 
 :exclamation: _Note:
-Request parallelism for your Azure DevOps Organization through [this](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR63mUWPlq7NEsFZhkyH8jChUMlM3QzdDMFZOMkVBWU5BWFM3SDI2QlRBSC4u) form._
+Request free tier of Parallelism for your Azure DevOps Organization through [this](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR63mUWPlq7NEsFZhkyH8jChUMlM3QzdDMFZOMkVBWU5BWFM3SDI2QlRBSC4u) form. The free tier for parallelism typically requires a 2-day approval._
 
 **Outcome:** An optimized Azure DevOps setup, allowing for parallel operations to execute pipelines.
 
