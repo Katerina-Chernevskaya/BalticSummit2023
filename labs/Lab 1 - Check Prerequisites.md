@@ -1,8 +1,8 @@
 Welcome to the initial step of your ALM adventure! Before we dive deep into the engaging hands-on labs, it is imperative to ensure that all the prerequisites are adequately met. This lab guides you to check and set up the necessary environments and tools. Let's ensure that your spaceship is ready for the expedition!
 
-![lab1-explorer.png](/.attachments/lab1-explorer-32c46f7a-d25c-4fba-9d1a-19ddf9dea0b5.png =100x)
+![lab1-explorer.png](./screenshots/lab1/1-GearGalaxy.png =100x)
 
-[[_TOC_]]
+
 
 # 1. Laptop
 **Task:** Ensure you have a laptop with sufficient charge and functioning properly.
