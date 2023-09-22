@@ -1,6 +1,6 @@
 Welcome to the initial step of your ALM adventure! Before we dive deep into the engaging hands-on labs, it is imperative to ensure that all the prerequisites are adequately met. This lab guides you to check and set up the necessary environments and tools. Let's ensure that your spaceship is ready for the expedition!
 
-![lab1-explorer.png](./screenshots/lab1/1-GearGalaxy.png =100x)
+<img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/56bd3760a60e6e829a9c3b666888e8dcb50b41cc/labs/screenshots/lab1/1-GearGalaxy.png" width="100">
 
 
 
