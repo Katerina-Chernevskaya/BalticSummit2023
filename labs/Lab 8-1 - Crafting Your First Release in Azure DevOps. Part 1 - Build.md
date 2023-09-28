@@ -1,3 +1,6 @@
+Prepare to dive into the heart of the cosmic engineering hub, the **Build Blueprint Base**. This is where our projects undergo their initial assembly, intricately pieced together for the grand voyage ahead. Here, we unravel the process of setting up build pipelines, ensuring each project component aligns perfectly for the upcoming journey.
+
+At this base, you'll harness the techniques to craft impeccable build configurations, vital for a project's integrity as it prepares to transcend developmental phases. Feel the anticipation in the air as we lay down the foundational blocks, setting the stage for a seamless transition to the next phase of our celestial expedition.
 
 <img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/a0a2c0c73428b9088a249b573ee761f4e3987418/labs/screenshots/lab8-1/8-1-DeploymentDock.png" width="100">
 

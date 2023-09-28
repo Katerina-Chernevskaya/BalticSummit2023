@@ -1,3 +1,8 @@
+Welcome to the **Pipeline Planet**, a stage of our interstellar voyage where we take a focused approach to working within Power Platform's Managed environments - fortified spaces designed to facilitate secure, organized, and efficient project development and deployment.
+
+As we forge ahead in our ALM expedition, we will fine-tune our understanding of managed environments, an essential feature within the Power Platform that offers a comprehensive toolkit to streamline the deployment process from one environment to another, ensuring a smooth transition and consistency across various developmental stages. Managed environments stand as the backbone of a resilient ALM strategy, providing a structured, controlled space where solutions can grow and evolve under meticulous oversight.
+
+During our time on Pipeline Planet, we will immerse ourselves in setting up and configuring pipelines within these managed environments, a critical endeavor that will empower us to facilitate seamless transitions of our solutions through various life stages, from conception to production. We will explore the dynamic landscape of CI/CD pipelines, understanding their role in automating workflows, enforcing quality checks, and ensuring that every release is robust, reliable, and ready for deployment.
 
 <img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/a0a2c0c73428b9088a249b573ee761f4e3987418/labs/screenshots/lab10/10-PipelinePlanet.png" width="100">
 

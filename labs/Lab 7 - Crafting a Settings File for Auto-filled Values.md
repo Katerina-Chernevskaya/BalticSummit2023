@@ -1,3 +1,6 @@
+As we progress to the **Automation Asteroid**, we find ourselves in a dynamic landscape, characterized by efficiency and smart operations. Here, settings and scripts come to life, orchestrating a symphony of automated processes that ensure a smooth sail through the deployment cosmos.
+
+Venture through this asteroid’s versatile landscapes to learn the art of crafting perfect automation settings. Envision a realm where manual operations are a tale of the past, where smart scripts navigate the operational cosmos, ensuring a journey characterized by efficiency, foresight, and dynamic responses, automating our path towards success.
 
 <img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/a0a2c0c73428b9088a249b573ee761f4e3987418/labs/screenshots/lab7/7-StreamlimliningUpdates.png" width="100">
 

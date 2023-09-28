@@ -1,3 +1,6 @@
+Navigating deeper into the cosmos, we reach the **Service Principle Sanctum**. A secure haven where authentication is the guardian, overseeing secure and seamless communications that form the backbone of our operational cosmos.
+
+Here, you will craft service principles that function as the silent guardians, overseeing secure liaisons between various services, weaving a tapestry of secure pathways that foster a sanctuary of trust and operational excellence in the digital cosmos. It’s a realm where security meets efficiency, setting a benchmark in secure communications, as we steer towards the realms of the unknown, safeguarded by principles grounded in trust and reliability.
 
 <img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/a0a2c0c73428b9088a249b573ee761f4e3987418/labs/screenshots/lab6/6-ServicePrincipal.png" width="100">
 
