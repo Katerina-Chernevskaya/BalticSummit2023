@@ -2,7 +2,7 @@ As we navigate deeper into the "DevOps Dominion" milestone, we arrive at a criti
 
 Azure Repos stands as a vigilant custodian, hosting our precious solutions and granting secure, version-controlled access to the team members. The time has come to entrust our meticulously crafted Power Platform solution to the Azure Repos, facilitating a hub of collaboration and version control where innovations flourish and solutions mature with collective intelligence and insight.
 
-<img src="https://github.com/Katerina-Chernevskaya/alm-odyssey/blob/139826d18dd6b82d3a8efb4a2f6b3a3f0599b828/labs/screenshots/lab5/5-RepositoryRidge.png" width="100">
+<img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/a0a2c0c73428b9088a249b573ee761f4e3987418/labs/screenshots/lab5/5-RepositoryRidge.png" width="100">
 
 # 1. Create the first pipeline
 

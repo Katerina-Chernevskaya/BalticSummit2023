@@ -1,6 +1,6 @@
 In this lab, we will embark on the exciting journey of constructing a new solution from the ground up, laying the foundation by creating initial components within this solution. This cornerstone solution will be our reliable companion throughout almost the entire workshop.
 
-<img src="https://github.com/Katerina-Chernevskaya/alm-odyssey/blob/c99b2b45be67f6fa016a5dc1108a13a3ecbe5203/labs/screenshots/lab3/3-solution.png" width="100">
+<img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/a0a2c0c73428b9088a249b573ee761f4e3987418/labs/screenshots/lab3/3-solution.png" width="100">
 
 # 1. Create a new Solution
 

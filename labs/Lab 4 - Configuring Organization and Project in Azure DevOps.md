@@ -2,7 +2,7 @@ Welcome to the pivotal lab where we embark on a journey to set up the backbone o
 
 Azure DevOps stands as a fortress in the software development landscape, equipped with a diverse arsenal of tools designed to streamline the development process from start to finish. In this lab, we delve deep into the core of Azure DevOps, navigating through the creation and configuration of organizations and projects, the foundational elements that hold the potential to orchestrate seamless development workflows.
 
-<img src="https://github.com/Katerina-Chernevskaya/alm-odyssey/blob/139826d18dd6b82d3a8efb4a2f6b3a3f0599b828/labs/screenshots/lab4/4-AzureDevOps.png" width="100">
+<img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/a0a2c0c73428b9088a249b573ee761f4e3987418/labs/screenshots/lab4/4-AzureDevOps.png" width="100">
 
 # 1. Create a new Project
 

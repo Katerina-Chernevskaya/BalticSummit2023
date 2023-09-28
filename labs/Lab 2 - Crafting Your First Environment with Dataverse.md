@@ -1,6 +1,6 @@
 In this segment of our journey at the "Solution Spaceport," we will be venturing into the creation of a Developer-type environment, a crucial hub for all your developmental undertakings. As we forge this new environment with the support of Dataverse, you'll be equipped with a space that is tailored for exploration, innovation, and the seamless development of solutions.
 
-<img src="https://github.com/Katerina-Chernevskaya/alm-odyssey/blob/c99b2b45be67f6fa016a5dc1108a13a3ecbe5203/labs/screenshots/lab2/2-environment.png" width="100">
+<img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/a0a2c0c73428b9088a249b573ee761f4e3987418/labs/screenshots/lab2/2-environment.png" width="100">
 
 # 1. Create a new Environment (Dev)
 1. Navigate to [https://admin.powerplatform.microsoft.com/](https://admin.powerplatform.microsoft.com/)

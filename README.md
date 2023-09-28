@@ -2,6 +2,8 @@
 
 This workshop will introduce you to the concepts and best practices of Application Lifecycle Management (ALM) in Power Platform. You will learn how to use solutions, environments, and deployment tools to manage your apps and data across different stages of development, testing, and production. You will also explore how to automate and monitor your ALM processes using Power Automate and Azure DevOps.
 
+<img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/a0a2c0c73428b9088a249b573ee761f4e3987418/assets/roadmap.png" width="800">
+
 For an optimal workshop experience, please familiarize yourself with and adhere to the following prerequisites.
 1. Device: Ensure you have a laptop ready.
 2. [Tenant](https://github.com/Katerina-Chernevskaya/BalticSummit2023#tenant) for Labs that allow you create environments and App Registration (details are bellow).

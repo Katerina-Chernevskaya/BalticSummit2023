@@ -2,7 +2,7 @@ Embarking on a voyage into the heart of Dataverse for Teams, this Lab will delve
 
 In this exploration, we'll unravel these intricacies, guiding you step-by-step from sculpting an app in Power Apps for Teams to its triumphant deployment into another Teams team. Prepare to demystify and conquer the nuances of Dataverse for Teams deployment!
 
-<img src="https://github.com/Katerina-Chernevskaya/alm-odyssey/blob/139826d18dd6b82d3a8efb4a2f6b3a3f0599b828/labs/screenshots/lab9-1/9-1-DataverseForTeamsSolution.png" width="100">
+<img src="https://github.com/Katerina-Chernevskaya/BalticSummit2023/blob/a0a2c0c73428b9088a249b573ee761f4e3987418/labs/screenshots/lab9-1/9-1-DataverseForTeamsSolution.png" width="100">
 
 # 1. Create two teams in Microsoft Teams
 
