@@ -105,7 +105,7 @@ The settings file should include all environments variables and connection refer
 
 1. Go to `Repos` in Azure DevOps.
 
-2. Click on three dots next to the folder name `GalacticGuide`.
+2. Click on three dots next to the Repo name `ALM Odyssey`.
 
 3. Select `+ New`, and then select `Folder`.
 
